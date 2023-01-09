@@ -6,4 +6,4 @@
  
    A/index.rst
    B/index.rst
-   C/index.rst
+
